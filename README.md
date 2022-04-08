@@ -1,7 +1,7 @@
 # calculator with Java<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
 ## #Discreption
-This project is the calculator project using Kotlin
+This project is the calculator project using Java
    
 ## # Technology of use
 - **Layout**
